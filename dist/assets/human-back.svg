@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="529" height="529">
+	<path fill="rgb(252,72,79)" stroke="none" transform="matrix(-1 8.74228e-08 -8.74228e-08 -1 529 528)" d="M473 198L319 69.3008L319 326.699L473 198Z"/>
+	<path fill="rgb(252,72,79)" stroke="none" transform="matrix(-1 8.74228e-08 -8.74228e-08 -1 529 528)" d="M220 154L352 154L352 242L220 242C189.199 242 165 266.199 165 297C165 327.801 189.199 352 220 352L253 352L253 440L220 440C140.801 440 77 376.199 77 297C77 217.801 140.801 154 220 154L220 154Z"/>
+</svg>
