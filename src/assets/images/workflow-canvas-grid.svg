@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44">
+    <path stroke="#eeeeee" stroke-width="1" d="M0 10 L44 10"/>
+    <path stroke="#eeeeee" stroke-width="1" d="M0 21 L44 21"/>
+    <path stroke="#eeeeee" stroke-width="1" d="M0 32 L44 32"/>
+    <path stroke="#e0e0e0" stroke-width="1" d="M0 43 L44 43"/>
+    <path stroke="#eeeeee" stroke-width="1" d="M10 0 L10 44"/>
+    <path stroke="#eeeeee" stroke-width="1" d="M21 0 L21 44"/>
+    <path stroke="#eeeeee" stroke-width="1" d="M32 0 L32 44"/>
+    <path stroke="#e0e0e0" stroke-width="1" d="M43 0 L43 44"/>
+</svg>
