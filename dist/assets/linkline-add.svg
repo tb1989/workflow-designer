@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="528pt" height="528pt" viewBox="0 0 528 528" version="1.1">
+	<path fill="rgb(33,150,243)" stroke="none" d="M165 275L55 374L165 473L165 407.031L341 407.031L341 341.031L165 341.031L165 275Z"/>
+	<path fill="rgb(33,150,243)" stroke="none" d="M429 341.098L473 341.098L473 407.098L429 407.098L429 341.098Z"/>
+	<path fill="rgb(33,150,243)" stroke="none" d="M363 341L407 341L407 407L363 407L363 341Z"/>
+	<path fill="rgb(33,150,243)" stroke="none" d="M363 253L473 154L363 55L363 121.031L187 121.031L187 187.031L363 187.031L363 253Z"/>
+	<path fill="rgb(33,150,243)" stroke="none" d="M55 121.09L99 121.09L99 187.09L55 187.09L55 121.09Z"/>
+	<path fill="rgb(33,150,243)" stroke="none" d="M121 121L165 121L165 187L121 187L121 121Z"/>
+	<path fill="rgb(67,160,71)" stroke="none" d="M506 418C506 478.754 456.742 528 396 528C335.246 528 286 478.754 286 418C286 357.246 335.246 308 396 308C456.742 308 506 357.246 506 418"/>
+	<path fill="rgb(255,255,255)" stroke="none" d="M374 352L418 352L418 484L374 484L374 352Z"/>
+	<path fill="rgb(255,255,255)" stroke="none" d="M330 396L462 396L462 440L330 440L330 396Z"/>
+</svg>
